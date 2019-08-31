@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * 腾讯课堂搜索 咕泡学院
+ * 腾讯课堂搜索 
  * 加群获取视频：608583947
  * 风骚的Michael 老师
  */

@@ -3,7 +3,7 @@ package com.gupaoedu.rmi.rpc;
 import java.io.Serializable;
 
 /**
- * 腾讯课堂搜索 咕泡学院
+ * 腾讯课堂搜索 
  * 加群获取视频：608583947
  * 风骚的Michael 老师
  * 传输对象（用于组装请求的相关信息）
